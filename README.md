@@ -29,7 +29,7 @@ AZ-300 Links and Schedule
 
 ### Post-Course
 
-- Post-Course Takeaways - <https://aka.ms/jwtakeaway>
+- Post-Course Takeaways - <https://aka.ms/EvalAndreas25>
 
 ## Schedule
 
@@ -52,6 +52,17 @@ AZ-300 Links and Schedule
 - AZ-300L03 - Module 04 - Lesson 4 - Role-based Access Control (RBAC)
 - Online Lab - AZ-300L01 - Implementing User-Assigned Managed Identities for Azure Resources
 - Online Lab - AZ-300L03 - Implementing Custom Role Based Access Control (RBAC) Roles
+
+### Azure Virtual Machines
+
+- AZ-300L01 - Module 03 - Lesson 1 - Creating Virtual Machines
+- AZ-300L01 - Module 03 - Lesson 3 - Virtual Machine Extensions
+- BONUS - ARM Templates
+- AZ-300L01 - Module 03 - Lesson 2 - Backup and Restore
+- BONUS - High Availability
+- BONUS - Virtual Machine Scale Sets
+- BONUS - Dedicated Hosts
+- Online Lab - Implementing Custom Azure VM Images
 
 ### Azure Networking
 
@@ -82,17 +93,6 @@ AZ-300 Links and Schedule
 - AZ-300L03 - Module 05 - Lesson 4 - Implement SSL and TLS Communications
 - AZ-300L03 - Module 05 - Lesson 5 - Key Vault
 - Online Lab - Implementing Azure Storage Access Controls
-
-### Azure Virtual Machines
-
-- AZ-300L01 - Module 03 - Lesson 1 - Creating Virtual Machines
-- AZ-300L01 - Module 03 - Lesson 3 - Virtual Machine Extensions
-- BONUS - ARM Templates
-- AZ-300L01 - Module 03 - Lesson 2 - Backup and Restore
-- BONUS - High Availability
-- BONUS - Virtual Machine Scale Sets
-- BONUS - Dedicated Hosts
-- Online Lab - Implementing Custom Azure VM Images
 
 ### Workloads
 
