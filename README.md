@@ -30,6 +30,7 @@ AZ-300 Links and Schedule
 ### Post-Course
 
 - Post-Course Takeaways - <https://aka.ms/EvalAndreas15>
+- Online Exam Guide - <https://www.thomasmaurer.ch/2020/03/how-to-take-a-microsoft-certification-exam-online/>
 
 ## Schedule
 
