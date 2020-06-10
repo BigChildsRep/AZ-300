@@ -29,7 +29,7 @@ AZ-300 Links and Schedule
 
 ### Post-Course
 
-- Post-Course Takeaways - <https://aka.ms/EvalAndreas25>
+- Post-Course Takeaways - <https://aka.ms/EvalAndreas15>
 
 ## Schedule
 
